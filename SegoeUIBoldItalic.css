@@ -1,0 +1,9 @@
+/* SegoeUIBoldItalic*/
+@font-face {
+	font-family: 'SegoeUIBoldItalic';
+	src:
+		url('https://chrishauswald.github.io/SegoeUIBoldItalic.woff') format('woff'),
+		url('https://chrishauswald.github.io/SegoeUIBoldItalic.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}

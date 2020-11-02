@@ -1,6 +1,9 @@
+/* SegoeUI*/
 @font-face {
-font-family: 'Segoe UI Regular';
-font-style: normal;
-font-weight: normal;
-src: url('Segoe UI.woff') format('woff');
+	font-family: 'SegoeUI';
+	src:
+		url('https://chrishauswald.github.io/SegoeUI.woff') format('woff'),
+		url('https://chrishauswald.github.io/SegoeUI.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
 }
