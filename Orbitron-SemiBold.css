@@ -1,0 +1,8 @@
+/* Orbitron-SemiBold*/
+@font-face {
+	font-family: 'Orbitron-SemiBold';
+	src:
+		url('https://chrishauswald.github.io/Orbitron-SemiBold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
