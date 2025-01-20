@@ -1,0 +1,8 @@
+/* Frutiger-Regular*/
+@font-face {
+    font-family: 'Frutiger-Regular';
+    src:
+        url('https://chrishauswald.github.io/Frutiger_regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
