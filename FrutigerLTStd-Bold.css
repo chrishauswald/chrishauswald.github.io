@@ -1,0 +1,8 @@
+/* FrutigerLTStd-Bold*/
+@font-face {
+    font-family: 'FrutigerLTStd-Bold';
+    src:
+        url('https://chrishauswald.github.io/FrutigerLTStd-Bold.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+}
