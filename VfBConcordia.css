@@ -1,0 +1,9 @@
+/* VfBConcordia*/
+@font-face {
+	font-family: 'VfBConcordia';
+	src:
+		url('https://chrishauswald.github.io/concordia-beta.woff2') format('woff2'),
+		url('https://chrishauswald.github.io/concordia-beta.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
