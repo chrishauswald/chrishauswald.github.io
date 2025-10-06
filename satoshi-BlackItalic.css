@@ -1,0 +1,11 @@
+/*Satoshi*/
+
+@font-face {
+  font-family: 'Satoshi-BlackItalic';
+  src: url('https://chrishauswald.github.io/Satoshi-BlackItalic.woff2') format('woff2'),
+       url('https://chrishauswald.github.io/Satoshi-BlackItalic.woff') format('woff'),
+       url('https://chrishauswald.github.io/Satoshi-BlackItalic.ttf') format('truetype');
+       font-weight: 900;
+       font-display: swap;
+       font-style: italic;
+}
